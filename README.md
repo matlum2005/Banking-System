@@ -112,8 +112,3 @@ See [CHANGELOG.md](CHANGELOG.md) for everything that was fixed and added in 2.0.
 ## 👤 Author
 
 **matlum2005** - [github.com/matlum2005](https://github.com/matlum2005)
-
-## 📄 License
-
-The original project mentioned the MIT license but shipped no `LICENSE` file. Add a `LICENSE`
-file to the repository before publishing so the terms are clear.
