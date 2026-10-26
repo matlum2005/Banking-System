@@ -1,0 +1,16 @@
+# build output
+target/
+dist/
+out/
+*.class
+
+# runtime data (accounts + password hashes) - never commit
+data/
+
+# IDE files
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+*.iml
